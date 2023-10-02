@@ -1,6 +1,6 @@
 <div align="center">
     <a href="https://pytorch.org/">
-        <img src="https://github.com/nbetts2020/PyTorch-Crash-Course/blob/main/PyTorch-Logo.jpg" alt="logo" width="50%">
+        <img src="https://github.com/nbetts2020/PyTorch-Crash-Course/blob/main/assets/PyTorch-Logo.jpg" alt="logo" width="50%">
     </a>
 </div>
 
