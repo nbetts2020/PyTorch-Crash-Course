@@ -26,8 +26,8 @@ Each topic is accompanied by detailed explanatory notes and code demonstrations 
 
 ## Prerequisites
 
- - Python (Version X.X)
- - PyTorch (Version X.X)
+ - Python (Version 3.10.12 or newer)
+ - PyTorch (Version 2.0.1)
    
 ## Cloning the Repository
 To get the notebook up and running locally, follow these steps:
