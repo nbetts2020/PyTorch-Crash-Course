@@ -32,7 +32,7 @@ Each topic is accompanied by detailed explanatory notes and code demonstrations 
 ## Cloning the Repository
 To get the notebook up and running locally, follow these steps:
 ```
-git clone x.x
+git clone https://github.com/nbetts2020/PyTorch-Crash-Course.git
 cd PyTorch-Crash-Course
 ```
 ## Package Installation
