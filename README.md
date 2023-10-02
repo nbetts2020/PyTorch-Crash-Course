@@ -43,7 +43,7 @@ pip install -r requirements.txt
 ## Contributing
 If you'd like to contribute, please fork the repository and create a pull request, or simply open an issue!
 ## License
-This project is licensed under the MIT License, see the LICENSE.md file for more details
+This project is licensed under the MIT License, see the [<u>LICENSE</u>](LICENSE) file for more details.
 ## Contact
 Email: nbettencourt2020@gmail.com
 
