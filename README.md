@@ -1,3 +1,9 @@
+<div align="center">
+    <a href="https://pytorch.org/">
+        <img src="https://github.com/nbetts2020/PyTorch-Crash-Course/blob/main/PyTorch-Logo.jpg" alt="logo" width="50%">
+    </a>
+</div>
+
 # PyTorch-Crash-Course
 This crash course is designed for those with a proficiency in Python, aiming to bridge the gap to mastering PyTorch as a leading deep learning framework. Among the many topics we cover are:
 
