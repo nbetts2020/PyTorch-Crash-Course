@@ -36,8 +36,9 @@ Open the Notebook: [Click here to access the notebook on Google Colab.](https://
 
 Use a GPU Runtime: Once opened, switch to a GPU runtime for faster results. Preferred GPUs: T4, V100, A100.
 
-## Cloning the Repository
-To get the notebook up and running locally, follow these steps:
+## Running the Notebook Locally
+If you prefer to run the notebook on your local machine:
+1. **Clone the repository:**
 ```
 git clone https://github.com/nbetts2020/PyTorch-Crash-Course.git
 cd PyTorch-Crash-Course
