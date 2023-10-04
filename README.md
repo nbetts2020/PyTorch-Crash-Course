@@ -35,11 +35,7 @@ To get the notebook up and running locally, follow these steps:
 git clone https://github.com/nbetts2020/PyTorch-Crash-Course.git
 cd PyTorch-Crash-Course
 ```
-## Package Installation
-Once navigated to the cloned directory, install the required packages:
-```
-pip install -r requirements.txt
-```
+Instructions to install the required packages are included in the notebook
 ## Contributing
 If you'd like to contribute, please fork the repository and create a pull request, or simply open an issue!
 ## License
