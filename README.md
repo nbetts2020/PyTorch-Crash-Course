@@ -32,9 +32,9 @@ Each topic is accompanied by detailed explanatory notes and code demonstrations 
 ## Running the Notebook on Google Colab
 For the most optimal experience:
 
-Open the Notebook: [Click here to access the notebook on Google Colab.](https://colab.research.google.com/drive/1LgsirnIjwxG5Ks7ywFY9cy5ruB1BGITG?usp=sharing)
+**Open the Notebook:** [Click here to access the notebook on Google Colab.](https://colab.research.google.com/drive/1LgsirnIjwxG5Ks7ywFY9cy5ruB1BGITG?usp=sharing)
 
-Use a GPU Runtime: Once opened, switch to a GPU runtime for faster results. Preferred GPUs: T4, V100, A100.
+**Use a GPU Runtime:** Once opened, switch to a GPU runtime for faster results. Preferred GPUs: T4, V100, A100.
 
 ## Running the Notebook Locally
 If you prefer to run the notebook on your local machine:
