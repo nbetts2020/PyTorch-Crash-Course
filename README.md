@@ -43,7 +43,7 @@ If you prefer to run the notebook on your local machine:
 git clone https://github.com/nbetts2020/PyTorch-Crash-Course.git
 cd PyTorch-Crash-Course
 ```
-Instructions to install the required packages are included in the notebook
+2. **Install the Required Packages:** Instructions to install the required packages are included in the notebook
 ## Contributing
 If you'd like to contribute, please fork the repository and create a pull request, or simply open an issue!
 ## License
