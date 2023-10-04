@@ -28,7 +28,11 @@ Each topic is accompanied by detailed explanatory notes and code demonstrations 
 
  - Python (Version 3.10.12 or newer)
  - PyTorch (Version 2.0.1)
-   
+
+## Google Colab
+Perhaps the easiest way to run this notebook is through Google Colab. Here's the link to it:
+https://colab.research.google.com/drive/1LgsirnIjwxG5Ks7ywFY9cy5ruB1BGITG?usp=sharing
+
 ## Cloning the Repository
 To get the notebook up and running locally, follow these steps:
 ```
