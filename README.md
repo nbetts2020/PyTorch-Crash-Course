@@ -9,7 +9,7 @@ This crash course is designed for those with a proficiency in Python, aiming to 
 
   - What is PyTorch? Why is it used?
   - The basics of PyTorch (Tensors, Reshaping tensors, Broadcasting)
-  - Building a Basic Neural Network (What are Layers?, Activation functions, Feed forward networks, Multi-Layer Perceptrons, Datasets, DataLoaders)
+  - Building a Basic Neural Network (What are Layers?, Activation functions, Feed Forward networks, Multi-Layer Perceptrons, Datasets, DataLoaders)
   - Building an Advanced Neural Network (CNNs, RNNs, Cat vs. Dog Classification with the CIFAR-10 dataset, Evaluating Models)
   - Regularization and Optimization Techniques (Dropout, Batch Normalization, Learning Rate, Step Decay)
   - Transfer Learning
